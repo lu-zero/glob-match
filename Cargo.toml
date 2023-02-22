@@ -4,6 +4,8 @@ description = "An extremely fast glob matcher"
 version = "0.2.1"
 license = "MIT"
 authors = ["Devon Govett <devongovett@gmail.com>"]
+homepage = "https://github.com/devongovett/glob-match"
+repository = "https://github.com/devongovett/glob-match"
 edition = "2021"
 
 [dev-dependencies]
